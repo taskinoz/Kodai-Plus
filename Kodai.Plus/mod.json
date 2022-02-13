@@ -1,0 +1,6 @@
+{
+	"Name": "Kodai Plus",
+	"Description": "Adds more objects to Kodai",
+	"Version": "1.0.0",
+	"LoadPriority": 2,
+}
